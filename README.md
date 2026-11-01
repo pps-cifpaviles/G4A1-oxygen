@@ -230,7 +230,7 @@ Oxygen es un proyecto de aprendizaje y **no está preparado para producción tal
 ## Colaboradores
 
 <!-- Añade aquí tu nombre y tu usuario de GitHub (práctica de GitHub, Parte 2). -->
-Izan Prendes García - izan95783
+Izan Prendes García - [@izan95783](https://github.com/izan95783)
 Irene Cid
 
 ## Licencia y uso
